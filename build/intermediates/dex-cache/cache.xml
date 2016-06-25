@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\New yodime design\TrueAfrican2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_b86a06b548b1f07bcb77121b2943950e355b4032.jar" />
+    </item>
+    <item
+        jar="C:\New yodime design\TrueAfrican2\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_71de076c0b23f1813d086f8f9be0ac8c5cd990e8.jar" />
+    </item>
+    <item
+        jar="C:\New yodime design\TrueAfrican2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_a512cc02e657aca5de756877b25e940bf589c6ac.jar" />
+    </item>
+    <item
+        jar="C:\New yodime design\TrueAfrican2\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\com.jjoe64-graphview-4.0.1_ab533dc0845858c093c54eb0e370ceb1e45847ca.jar" />
+    </item>
+    <item
+        jar="C:\New yodime design\TrueAfrican2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_a6746c03e05e511554627ce342c76981541652b7.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_7cd194c6f3f4f301c835750b93d55cdb37d12acf.jar" />
+    </item>
+    <item
+        jar="C:\New yodime design\TrueAfrican2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_60c56ee602e080e7805898f56bed8462cfc3397b.jar" />
+    </item>
+    <item
+        jar="C:\New yodime design\TrueAfrican2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_3485473c426b736d6a99f3320a1674f5289e3333.jar" />
+    </item>
+    <item
+        jar="C:\New yodime design\TrueAfrican2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\New yodime design\TrueAfrican2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_68a5f9a5ec0b11bf0791ee37ddc560593843881e.jar" />
+    </item>
+
+</items>
